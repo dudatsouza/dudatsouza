@@ -42,9 +42,9 @@ Me chamo Maria Eduarda, mais conhecida como *Duda* e sou estudante de Engenharia
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dudatsouza&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dudatsouza&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="120" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudatsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true" height="120" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dudatsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dudatsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
 </div>
 
 <br clear="both">
@@ -56,19 +56,12 @@ Me chamo Maria Eduarda, mais conhecida como *Duda* e sou estudante de Engenharia
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/dudat_18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="23" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/invite/dudat_18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="23" alt="discord logo"  />
-  </a>
-  <a href="dudateixeirasouza@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="23" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dudatsouza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="23" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/dudat_18" target="_blank">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=x" width="42" height="23" alt="X logo"  />
+
+[![INSTA](https://img.shields.io/badge/-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dudat_18)
+[![DISCORD](https://img.shields.io/badge/-000?style=for-the-badge&logo=discord)](https://discord.com/invite/dudat_18)
+[![GMAIL](https://img.shields.io/badge/-000?style=for-the-badge&logo=gmail)](dudateixeirasouza@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dudatsouza)
+[![X](https://img.shields.io/badge/-000?style=for-the-badge&logo=x)](https://x.com/dudat_18)
+
 </div>
 
