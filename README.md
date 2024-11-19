@@ -49,11 +49,6 @@ Me chamo Maria Eduarda, mais conhecida como *Duda* e sou estudante de Engenharia
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dudatsouza&radius=16&area=true&order=5&bg_color=0b131b&color=4672a5&title_color=ee6331&line=ee6331&point=f3de01&hide_border=true&hide_title=false" height="160" alt="activity-graph graph"  />
-</div>
-
-<br clear="both">
 
 <div align="center">
 
