@@ -42,7 +42,6 @@ Me chamo Maria Eduarda, mais conhecida como *Duda* e sou estudante de Engenharia
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dudatsouza&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="120" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudatsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=dudatsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
 </div>
