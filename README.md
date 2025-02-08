@@ -51,11 +51,12 @@ Me chamo Maria Eduarda, mais conhecida como *Duda* e sou estudante de Engenharia
 
 <div align="center">
 
-[![INSTA](https://img.shields.io/badge/-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dudat_18)
-[![DISCORD](https://img.shields.io/badge/-000?style=for-the-badge&logo=discord)](https://discord.com/invite/dudat_18)
-[![GMAIL](https://img.shields.io/badge/-000?style=for-the-badge&logo=gmail)](dudateixeirasouza@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dudatsouza)
-[![X](https://img.shields.io/badge/-000?style=for-the-badge&logo=x)](https://x.com/dudat_18)
+[![INSTA](https://img.shields.io/badge/-000?style=flat&logo=instagram&logoColor=red)](https://www.instagram.com/dudat_18)
+[![DISCORD](https://img.shields.io/badge/-000?style=flat&logo=discord)](https://discord.com/invite/dudat_18)
+[![GMAIL](https://img.shields.io/badge/-000?style=flat&logo=gmail)](dudateixeirasouza@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/In-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/dudatsouza)
+[![TELEGRAM](https://img.shields.io/badge/-000?style=flat&logo=telegram&logoColor=blue)](https://t.me/dudat_18)
+[![X](https://img.shields.io/badge/-000?style=flat&logo=x)](https://x.com/dudat_18)
 
 </div>
 
